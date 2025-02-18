@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="https://getbootstrap.com/favicon.ico">
 
-    <title>INFORMATIVO 2025</title>
+    <title>TENDENCIAS 2024</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
       <header class="blog-header py-3">
         <div class="row flex-nowrap justify-content-between align-items-center">
           <div class="col-12 text-center">
-            <a class="blog-header-logo text-dark" href="#">Diario STIC</a>
+            <a class="blog-header-logo text-dark" href="#">APLICACIONES EN LA NUBE</a>
           </div>
         </div>
       </header>
@@ -556,9 +556,9 @@
 
 
     <footer class="blog-footer">
-      <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      <p>Plantilla de Blog creada para <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">sistemas@uns</a>.</p>
       <p>
-        <a href="#">Back to top</a>
+        <a href="#">Volver Arriba</a>
       </p>
     </footer>
 
